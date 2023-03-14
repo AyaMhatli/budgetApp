@@ -1,0 +1,4 @@
+#Tue Mar 14 07:41:34 WAT 2023
+base.0=C\:\\mpdam\\Budget app\\budget_app-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
